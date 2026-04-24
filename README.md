@@ -2,6 +2,10 @@
   <img src="image" width="512">
 </p>
 
+# MOVED TO
+
+https://github.com/Kitt3120/Rust-Template
+
 # Project
 
 Project description
